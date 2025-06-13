@@ -1,6 +1,6 @@
 # Automação de E-mail
 
-Este projeto tem como objetivo auyomatizar o envio de e-mails com formatação HTML e imagem incorporada, utilizando o servidor SMTP do Gmail.
+Este projeto tem como objetivo automatizar o envio de e-mails com formatação HTML e imagem incorporada, utilizando o servidor SMTP do Gmail.
 
 ---
 
